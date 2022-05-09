@@ -1,8 +1,8 @@
 {
-  "name": "vnn/wordpress-rest-api-client",
+  "name": "zerofill/wp-apiclient",
   "autoload": {
     "psr-4": {
-      "Vnn\\WpApiClient\\": "src/"
+      "zerofill\\wp-apiclient\\": "src/"
     }
   },
   "require": {
